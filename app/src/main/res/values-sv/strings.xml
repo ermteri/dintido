@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dintido</string>
+    <string name="action_settings">Settings</string>
+    <string name="year">År</string>
+    <string name="night">Natt</string>
+    <string name="morning">Morgon</string>
+    <string name="day">Dag</string>
+    <string name="evening">Kväll</string>
+    <string name="monday">Måndag</string>
+    <string name="tuesday">Tisdag</string>
+    <string name="wednesday">Onsdag</string>
+    <string name="thursday">Torsdag</string>
+    <string name="friday">Fredag</string>
+    <string name="saturday">Lördag</string>
+    <string name="sunday">Söndag</string>
+</resources>
